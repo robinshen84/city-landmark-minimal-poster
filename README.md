@@ -42,7 +42,20 @@
       <strong>广富林 · 水下展厅与文化根脉</strong><br><br>
       <img src="examples/05-guangfulin.png" alt="上海广富林文化遗址极简艺术海报" width="420">
     </td>
-    <td width="50%"></td>
+    <td align="center" width="50%">
+      <strong>思南公馆 · 石库门与静巷</strong><br><br>
+      <img src="examples/06-sinan-mansion.png" alt="上海思南公馆极简艺术海报" width="420">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>田子坊 · 里弄转角与生活肌理</strong><br><br>
+      <img src="examples/07-tianzifang.png" alt="上海田子坊极简艺术海报" width="420">
+    </td>
+    <td align="center" width="50%">
+      <strong>1933 老场坊 · 混凝土回廊与旧工业空间</strong><br><br>
+      <img src="examples/08-1933-old-millfun.png" alt="上海 1933 老场坊极简艺术海报" width="420">
+    </td>
   </tr>
 </table>
 
